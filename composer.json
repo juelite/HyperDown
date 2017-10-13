@@ -2,6 +2,7 @@
     "name": "joyqi/hyper-down",
     "description": "A light weight markdown parser library",
     "license": "BSD",
+    "version": "1.0",
     "authors": [
         {
             "name": "joyqi",
